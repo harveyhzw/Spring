@@ -1,2 +1,2 @@
-# SpringMVC
-Some project based on Spring MVC
+# Spring
+Some demos basing on Spring Boot and Spring Cloud
