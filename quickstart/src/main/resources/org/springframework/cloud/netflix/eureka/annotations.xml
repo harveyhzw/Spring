@@ -1,0 +1,5 @@
+<root>
+    <item name='org.springframework.cloud.netflix.eureka.EnableEurekaClient'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
