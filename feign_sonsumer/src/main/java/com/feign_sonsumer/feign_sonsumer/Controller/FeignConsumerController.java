@@ -22,7 +22,7 @@ public class FeignConsumerController {
         return helloService.hello();
     }
 
-    @RequestMapping(value = "/feign-consumer3", method = RequestMethod.GET)
+    @RequestMapping(value = "/feign-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ", method = RequestMethod.GET)
     public String helloConsumer2(){
         StringBuilder sb = new StringBuilder();
         sb.append(refactorHelloService.hello("Harvey")).append("\n");
